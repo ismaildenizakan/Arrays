@@ -40,6 +40,7 @@ public class Tools {
         for (int i = 0; i <us; i++) {
             carpim *=sayi;
 
+
         }
         return carpim;
     }
